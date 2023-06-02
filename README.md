@@ -1,6 +1,6 @@
 # Traffic: A Neural Network detects traffic signs
 
-Harvard CS50AI Project
+Harvard CS50AI Project\
 Video Demo: https://youtu.be/CZxMj4GK_GQ
 
 ## Description:
