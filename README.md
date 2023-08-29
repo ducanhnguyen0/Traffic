@@ -25,7 +25,10 @@ The function return a compiled neural network model using TensorFlow Sequential 
 ## How to run
 
 1. Clone this project
-2. Run command line in terminal: python traffic.py 'dataset file'
+2. Run command line in terminal:
+   ```
+   python traffic.py 'dataset file'
+   ```
 
 ## Experiment
 I have performed a lot of experiments in the neural network model with several attempts to:
