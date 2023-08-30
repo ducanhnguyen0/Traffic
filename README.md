@@ -33,6 +33,7 @@ The function return a compiled neural network model using TensorFlow Sequential 
    ```
    python traffic.py 'dataset file'
    ```
+   (You can get the dataset from [here](https://cdn.cs50.net/ai/2023/x/projects/5/gtsrb.zip) then unzip it and move the resulting gtsrb directory inside of your traffic directory or you can get dataset file from platform like Kaggle)
 
 ## Experiment
 I have performed a lot of experiments in the neural network model with several attempts to:
