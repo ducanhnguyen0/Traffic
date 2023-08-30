@@ -25,7 +25,11 @@ The function return a compiled neural network model using TensorFlow Sequential 
 ## How to run
 
 1. Clone this project
-2. Run command line in terminal:
+2. Install requirements package:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Run command line in terminal:
    ```
    python traffic.py 'dataset file'
    ```
