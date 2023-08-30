@@ -29,7 +29,7 @@ The function return a compiled neural network model using TensorFlow Sequential 
    ```
    pip install -r requirements.txt
    ```
-3. Run command line in terminal:
+3. Train the AI Model:
    ```
    python traffic.py 'dataset file'
    ```
